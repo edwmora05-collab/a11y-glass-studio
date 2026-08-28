@@ -8,7 +8,10 @@
 - [x] Write README, contributing guidance, security guidance, and license.
 - [x] Run TypeScript validation, production build, and responsive visual verification.
 - [x] Create the GitHub repository and push the complete project.
-- [ ] Create the final Manus checkpoint after the GitHub push.
+- [x] Create the final Manus checkpoint after the GitHub push.
+- [x] Make the GitHub repository public.
+- [x] Set the English repository description and relevant topics.
+- [x] Verify the public repository metadata, default branch, and documentation.
 
 ## Product decisions
 
