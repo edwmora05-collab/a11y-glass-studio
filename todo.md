@@ -12,6 +12,9 @@
 - [x] Make the GitHub repository public.
 - [x] Set the English repository description and relevant topics.
 - [x] Verify the public repository metadata, default branch, and documentation.
+- [ ] Add a custom Open Graph preview image for GitHub.
+- [ ] Add GitHub Actions for automated typecheck and production build.
+- [ ] Add screenshots/demo guidance and CI status to the README.
 
 ## Product decisions
 

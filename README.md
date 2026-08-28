@@ -140,3 +140,24 @@ This project is released under the MIT License. See [LICENSE](LICENSE).
 [6]: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories "GitHub Docs — About repositories"
 
 <!-- Design reminder: documentation should feel like the product—precise, transparent, practical, and calm. -->
+
+
+## Visual preview
+
+![A11y Glass Studio preview](https://a11yglass-iyhgf2oa.manus.space/manus-storage/a11y-glass-studio-og_19df6f37.png)
+
+## Live demo
+
+Try the published tool at [a11yglass-iyhgf2oa.manus.space](https://a11yglass-iyhgf2oa.manus.space). The core experience runs entirely in the browser without an account or API key.
+
+## Continuous integration
+
+The repository includes `.github/workflows/ci.yml`. GitHub Actions runs on pushes to `main` and pull requests targeting `main`, installs the locked pnpm dependencies, runs `pnpm check`, and creates the production bundle with `pnpm build`.
+
+## Repository metadata
+
+The repository is organized around the topics `accessibility`, `wcag`, `contrast-checker`, `glassmorphism`, `design-tools`, `react`, `typescript`, and `vite`. Its short GitHub description is: “A focused accessibility toolkit for WCAG contrast checking and production-ready glassmorphism CSS.”
+
+> A11y Glass Studio is a practical design instrument, not a substitute for a complete accessibility audit. Validate final products in their real context with assistive technology and additional testing.
+
+<!-- Optical Lab reminder: keep documentation precise, operational, transparent, and calm. -->
